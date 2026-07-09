@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 Hi 👋, I'm Bristi<br><br>Python Developer | 📊 Data Analysis Enthusiast<br><br>I enjoy exploring data with Python and building projects that transform raw datasets into meaningful insights.<br>Currently learning Machine Learning while strengthening my Data Analysis skills.<br><br>🌱 Currently Learning<br><br>- Data Analysis<br>- Machine Learning<br>- SQL<br>- Git & GitHub<br><br>📂 Featured Project<br><br>📊 Comic Book Dataset Analysis<br>A Python-based Exploratory Data Analysis project using Pandas, NumPy, Matplotlib and Scikit-Learn.<br><br>🔗 Repository:<br>https://github.com/bristiaktar/comic-book-dataset-analysis
 
 
