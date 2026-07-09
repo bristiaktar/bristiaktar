@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bristi</h1>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajJ3Z25xZmo1bDhnOHl5MXhlcHRyb3gydzhiNDQ3OTYzNXlzeXUzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.gif" width="350">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajJ3Z25xZmo1bDhnOHl5MXhlcHRyb3gydzhiNDQ3OTYzNXlzeXUzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.gif" width="250">
 </p>
 <p align="center">
 Building practical Python and Data Analysis projects, one repository at a time.
