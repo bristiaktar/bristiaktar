@@ -1,4 +1,11 @@
+<h1 align="center">Hi 👋, I'm Bristi</h1>
 
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajJ3Z25xZmo1bDhnOHl5MXhlcHRyb3gydzhiNDQ3OTYzNXlzeXUzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.gif" width="180">
+</p>
+<p align="center">
+Building practical Python and Data Analysis projects, one repository at a time.
+</p>
 Hi 👋, I'm Bristi<br><br>Python Developer | 📊 Data Analysis Enthusiast<br><br>I enjoy exploring data with Python and building projects that transform raw datasets into meaningful insights.<br>Currently learning Machine Learning while strengthening my Data Analysis skills.<br><br>🌱 Currently Learning<br><br>- Data Analysis<br>- Machine Learning<br>- SQL<br>- Git & GitHub<br><br>📂 Featured Project<br><br>📊 Comic Book Dataset Analysis<br>A Python-based Exploratory Data Analysis project using Pandas, NumPy, Matplotlib and Scikit-Learn.<br><br>🔗 Repository:<br>https://github.com/bristiaktar/comic-book-dataset-analysis
 
 
